@@ -2,11 +2,11 @@ import oauth2 as oauth
 import urllib2 as urllib
 
 # See assignment1.html instructions or README for how to get these credentials
-
-api_key = "zbdUhlavjJLgQd4dFujzerdQK"
-api_secret = "g1xCDF1uFdlpzvpf9dETFygHHiL6XHCJWlv4lsPuL3ML9UcetG"
-access_token_key = "3225507814-pq2XjuCRnVaE0P2H7NigYWz6p89HsUdVIIIwKSe"
-access_token_secret = "cVhfAcUjhTxLBv47BvxTOcrErGbNxXtSxvjqKLJTKc667"
+# key and secret code.
+api_key = ""
+api_secret = ""
+access_token_key = ""
+access_token_secret = ""
 
 _debug = 0
 
